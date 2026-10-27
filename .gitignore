@@ -1,0 +1,8 @@
+.env
+*.key
+secrets*
+__pycache__/
+.ipynb_checkpoints/
+*.zip
+journey_ai_*.csv
+journey_ai_*.html
